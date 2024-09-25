@@ -9,7 +9,7 @@ Am certified 3X Azure and 1x GCP. Am a co-founder of ExecutiveFlowai, a platform
 *   🌍  I'm based in France & West Africa
 *   ✉️  You can contact me at [gnankpe.azizou-pro@protonmail.com](mailto:gnankpe.azizou-pro@protonmail.com)
 *   🚀  I'm currently working at [ExecutiveFlowAI](http://executiveflowai.com/)
-*   🧠  I'm learning **Cloud computing an Azure AI**
+*   🧠  I'm learning **Cloud computing and Azure AI**
 *   Skills
    
 <p align="left">
