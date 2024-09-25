@@ -11,7 +11,8 @@ Am a **System and Network Technician** and certified **3X Azure and 1X GCP**.
 *   🧠  I'm learning **Cloud computing and Azure AI Engineering**
     
   ### Skills
-  -Windows Server Administration
+  -------------------------
+  - Windows Server Administration
   - Linux Administration
   - Cisco Switching and Routing configuration
   - Microsoft Azure : **Storage Account, Virtual Machines, Virtual Networks, Kubernetes, Load Balancers, NSGs, Entra ID, App Service, Function**
