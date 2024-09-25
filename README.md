@@ -9,9 +9,9 @@ Azure AI & Cloud Ingineer
 
   ### Skills
   -------------------------
-  - Windows Server Administration
-  - Linux Administration
-  - Cisco Switching and Routing configuration
+  - Windows Server Administration : **Windows Server 2019 and 2022**
+  - Linux Administration : **Centos , RHL, Ubuntu and Debian.**
+  - Cisco Switching and Routing : **EIGRP, OSPF, RIP, Inter-VLANs routing, VoIP, ACL.**
   - Microsoft Azure : **Storage Account, Virtual Machines, Virtual Networks, Kubernetes, Load Balancers, NSGs, Entra ID, App Service, Function.**
   - Infrastructure as Code : **Terraform, Ansible, Bicep, ARM**
   -  Scripting : **Python, Bash, PowerShell**
