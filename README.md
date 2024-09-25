@@ -4,10 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Azure AI & Cloud Ingineer
 -------------------------
 
-Am certified 3X Azure and 1x GCP. Am a co-founder of ExecutiveFlowai, a platform that helps startups and bussinesses of all sizes to leverage the potential of AI for better outcome.
-*
-*Cloud Engineering, Linux and Windows Administration, Networking.
-*   🧠  I'm learning **Cloud computing and Azure AI**
+
+Am a System and Network Technician and certified **3X Azure and 1X GCP**. 
+
+*  🧠  **Cloud Engineering, Linux and Windows Administration, Networking**.
+*   🧠  I'm learning **Cloud computing and Azure AI Engineering**
 *   Skills
    
 <p align="left">
