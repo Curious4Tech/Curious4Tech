@@ -5,11 +5,8 @@ Azure AI & Cloud Ingineer
 -------------------------
 
 
-Am a **System and Network Technician** and certified **3X Azure and 1X GCP**. 
+*  🧠 Am a **System and Network Technician** and certified **3X Azure and 1X GCP**. 
 
-*  🧠  **Cloud Engineering, Linux and Windows Administration, Networking**.
-*   🧠  I'm learning **Cloud computing and Azure AI Engineering**
-    
   ### Skills
   -------------------------
   - Windows Server Administration
