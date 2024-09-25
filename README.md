@@ -11,7 +11,7 @@ Azure AI & Cloud Ingineer
   -------------------------
   - Windows Server Administration : **Windows Server 2019 and 2022**
     
-  - Linux Administration : **Centos , RHL, Ubuntu and Debian.**
+  - Linux Administration : **Centos , RHL, Ubuntu and Debian, Docker, Jekins, GLPI.**
     
   - Cisco Switching and Routing : **EIGRP, OSPF, RIP, Inter-VLANs routing, VoIP, ACL.**
     
