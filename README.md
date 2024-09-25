@@ -18,13 +18,13 @@ Am certified 3X Azure and 1x GCP. Am a co-founder of ExecutiveFlowai, a platform
   ### Socials
                   
                   
-               https://www.github.com/Curious4Tech
+               [Github Profile](https://www.github.com/Curious4Tech)
                   
-               https://www.linkedin.com/in/azizou-gnankpe/
+               [LinkedIn Profile](https://www.linkedin.com/in/azizou-gnankpe/)
                     
-               http://www.medium.com/Curious4Tech
+               [Medium Profile](http://www.medium.com/Curious4Tech)
                    
-               https://www.x.com/philantrop_23
+               [X Profile](https://www.x.com/philantrop_23)
                     
-               https://www.youtube.com/@NexTechIQ
+               [Youtube Channel](https://www.youtube.com/@NexTechIQ)
                   
