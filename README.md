@@ -12,7 +12,9 @@ Azure AI & Cloud Ingineer
   - Windows Server Administration
   - Linux Administration
   - Cisco Switching and Routing configuration
-  - Microsoft Azure : **Storage Account, Virtual Machines, Virtual Networks, Kubernetes, Load Balancers, NSGs, Entra ID, App Service, Function**
+  - Microsoft Azure : **Storage Account, Virtual Machines, Virtual Networks, Kubernetes, Load Balancers, NSGs, Entra ID, App Service, Function.**
+  - Infrastructure as Code : **Terraform, Ansible, Bicep, ARM**
+  -  Scripting : **Python, Bash, PowerShell**
 
   ### Socials
                   
