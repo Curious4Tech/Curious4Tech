@@ -3,8 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-*  🧠 Am a **System and Network Technician** and certified **3X Azure and 1X GCP**. 
-
+*  🧠 Am a **System and Network Technician** and certified **3X Azure and 1X GCP.**
+  
+*  🧠 Am learning **Azure AI and Cloud Engineering.**
+ -------------------------
   ### Skills
   -------------------------
   - Windows Server Administration : **Windows Server 2016 , 2019 and 2022**
