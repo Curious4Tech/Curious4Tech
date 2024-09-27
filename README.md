@@ -31,8 +31,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [LinkedIn Profile](https://www.linkedin.com/in/azizou-gnankpe/)
                     
 [Medium Profile](http://www.medium.com/Curious4Tech)
-                   
-[X Profile](https://www.x.com/philantrop_23)
                     
 [Youtube Channel](https://www.youtube.com/@NexTechIQ)
                   
