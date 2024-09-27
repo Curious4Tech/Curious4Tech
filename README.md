@@ -22,6 +22,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   - Infrastructure as Code : **Terraform, Ansible, Bicep, ARM**
 
   -  Scripting : **Python, Bash, PowerShell**
+    
+  -  Spoken Languages : **Fluent in both French and English**
 
   ### Socials
                   
