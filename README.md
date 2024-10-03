@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     
   - Virtualization: **VMware, HyperV, Virtualbox**
     
-  - Linux Administration : **Centos , RHEL, Ubuntu and Debian, Docker, Jekins, GLPI.**
+  - Linux Administration : **Centos , RHEL, Ubuntu and Debian, Docker, Jekins.**
     
   - Cisco Switching and Routing : **EIGRP, OSPF, RIP, Inter-VLANs routing, VoIP, ACL.**
     
