@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   
 *  🧠 Am learning **Azure AI and Cloud Engineering.**
   
-* 🧠 I also have an **Electrical Engineer**
+* 🧠 I am also an **Electrical Engineer**
  -------------------------
   ### Skills
   -------------------------
