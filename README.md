@@ -31,7 +31,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     
   - VoIP technologies : **3CX, Asterisk(FreeBPX) and XiVO**
 
-  - Security : **pfSense, OPNsense,Dy
+  - Security : **pfSense, OPNsense,DynFi**
 
   ### Socials
                   
