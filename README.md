@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   -------------------------
   - Windows Server Administration : **Windows Server 2016 , 2019 and 2022**
     
-  - Virtualization: **VMware, HyperV, Virtualbox**
+  - Virtualization: **VMware, HyperV, Virtualbox, Proxmox VE**
     
   - Linux Administration : **Centos , RHEL, Ubuntu and Debian, Docker, Jekins.**
     
@@ -28,6 +28,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   -  Spoken Languages : **Fluent in both French and English**
 
   - System Monitoring : **GLPI , Centreon, Zabbix**
+    
+  - VoIP technologies : **3CX, Asterisk(FreeBPX) and XiVO**
+
+  - Security : **pfSense, OPNsense,Dy
 
   ### Socials
                   
