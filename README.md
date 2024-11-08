@@ -11,9 +11,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  -------------------------
   ### Skills
   -------------------------
-  - Windows Server Administration : **Windows Server 2016 , 2019 and 2022**
+  - Windows Server Administration : **Windows Server 2016, 2019, 2022 and 2025**
     
-  - Virtualization: **VMware, HyperV, Virtualbox, Proxmox VE**
+  - Virtualization: **VMware, HyperV, Virtualbox, Proxmox VE and KVM**
     
   - Linux Administration : **Centos , RHEL, Ubuntu and Debian, Docker, Jekins.**
     
