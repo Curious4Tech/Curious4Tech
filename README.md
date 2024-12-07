@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 *  🧠 Am a **System and Network Technician** and certified **3X Azure and 1X GCP.**
   
-*  🧠 Am  **Azure AI and Cloud Engineer.**
+*  🧠 Am learning and sharing my knowledge on **Azure AI and Cloud Engineering.**
   
 * 🧠 I am also an **Electrical Engineer**
  -------------------------
