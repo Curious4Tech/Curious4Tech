@@ -30,11 +30,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   ### Socials
                   
                   
-[Github Profile](https://www.github.com/Curious4Tech)
+[![GitHub Badge](https://img.shields.io/badge/-Curious4Tech-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Curious4Tech)
+
                   
 [LinkedIn Profile](https://www.linkedin.com/in/azizou-gnankpe/)
                     
 [Medium Profile](http://www.medium.com/Curious4Tech)
-                    
-[Youtube Channel](https://www.youtube.com/@NexTechIQ)
+                  
                   
