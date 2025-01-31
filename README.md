@@ -33,8 +33,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![GitHub Badge](https://img.shields.io/badge/-Curious4Tech-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Curious4Tech)
 
                   
-[LinkedIn Profile](https://www.linkedin.com/in/azizou-gnankpe/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Azizou%20Gnankpe-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azizou-gnankpe/)
+
                     
-[Medium Profile](http://www.medium.com/Curious4Tech)
+[![Medium Badge](https://img.shields.io/badge/-Curious4Tech-12100E?style=flat-square&logo=medium&logoColor=white)](http://www.medium.com/Curious4Tech)
+
                   
                   
