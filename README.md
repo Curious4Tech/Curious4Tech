@@ -12,19 +12,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     
   - Cisco Switching and Routing : **EIGRP, OSPF, RIP, Inter-VLANs routing, VoIP, ACL.**
     
-  - Microsoft Azure : **Storage Account, Virtual Machines, Virtual Networks, Kubernetes, Load Balancers, NSGs, Entra ID, App Service, Function.**
+  - Microsoft Azure : **`Active Directory , Storage Account, Virtual Machines, Virtual Networks, AIM/RBAC, Load Balancers, NSGs, Microsoft Entra ID, App Service, Azure Function, Azure migrate and Azure Arc.`**
     
-  - Infrastructure as Code : **Terraform, Ansible, Bicep, ARM**
+  - Infrastructure as Code : **`Terraform, Ansible, Bicep, ARM*`*
 
-  -  Scripting : **Python, Bash, PowerShell**
+  -  Scripting : **`Python, Bash, PowerShell`**
     
-  -  Spoken Languages : **Fluent in both French and English**
+  -  Spoken Languages : **`French(Native) and English (Billingual)`**
 
-  - System Monitoring : **GLPI , Centreon, Zabbix**
+  - System Monitoring : **`GLPI , Centreon, Zabbix, Wazuh, Grafana and Prometheus`**
     
-  - VoIP technologies : **3CX, Asterisk(FreeBPX) and XiVO**
+  - VoIP technologies : **`3CX, Asterisk(FreeBPX) and XiVO`**
 
-  - Security : **pfSense, OPNsense,DynFi**
+  - Security : **`pfSense, OPNsense, DynFi,  Appache Guacamole`**
+ 
 
   ### Socials
                   
