@@ -39,10 +39,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Medium Badge](https://img.shields.io/badge/-Curious4Tech-12100E?style=flat-square&logo=medium&logoColor=white)](http://www.medium.com/Curious4Tech)
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Jonh%20Graee-181717?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jonh-graee/)
-[![LinkedIn Badge](https://img.shields.io/badge/-Azizou%20Gnankpe-181717?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jonh-graee/)
-
-[![X Badge](https://img.shields.io/badge/-Curioechiq-181717?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Curious4techiq)
 [![X Badge](https://img.shields.io/badge/-Curiouechiq-181717?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Curiouechiq)
                   
                   
