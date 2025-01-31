@@ -38,5 +38,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                     
 [![Medium Badge](https://img.shields.io/badge/-Curious4Tech-12100E?style=flat-square&logo=medium&logoColor=white)](http://www.medium.com/@Curious4Tech)
 
+
+[![Twitter Badge](https://img.shields.io/badge/-Curious4techiq-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/Curious4techiq)
+
                   
                   
