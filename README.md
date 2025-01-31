@@ -40,7 +40,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Curious4techiq-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/Curious4techiq)
+[![LinkedIn Badge](https://img.shields.io/badge/-Azizou%20Gnankpe-181717?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizou-gnankpe/)
+
+
+[![X Badge](https://img.shields.io/badge/-Curious4techiq-181717?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Curious4techiq)
 
                   
                   
