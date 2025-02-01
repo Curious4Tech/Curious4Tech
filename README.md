@@ -4,17 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  -------------------------
   ### Skills
   -------------------------
-  - Windows Server Administration : **Windows Server 2016, 2019, 2022 and 2025**
+  - Windows Server Administration : **`Windows Server 2016, 2019, 2022 and 2025`**
     
-  - Virtualization: **VMware, HyperV, Virtualbox, Proxmox VE and KVM**
+  - Virtualization: **`VMware, HyperV, Virtualbox, Proxmox VE and KVM`**
     
-  - Linux Administration : **Centos , RHEL, Ubuntu and Debian, Docker, Jekins.**
+  - Linux Administration : **`Centos , RHEL, Ubuntu and Debian, Docker, Jekins.`**
     
-  - Cisco Switching and Routing : **EIGRP, OSPF, RIP, Inter-VLANs routing, VoIP, ACL.**
+  - Cisco Switching and Routing : **`EIGRP, OSPF, RIP, Inter-VLANs routing, VoIP, ACL.`**
     
   - Microsoft Azure : **`Active Directory , Storage Account, Virtual Machines, Virtual Networks, AIM/RBAC, Load Balancers, NSGs, Microsoft Entra ID, App Service, Azure Function, Azure migrate and Azure Arc.`**
     
-  - Infrastructure as Code : **`Terraform, Ansible, Bicep, ARM*`*
+  - Infrastructure as Code : **`Terraform, Ansible, Bicep, ARM*`**
 
   -  Scripting : **`Python, Bash, PowerShell`**
     
