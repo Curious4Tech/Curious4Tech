@@ -40,7 +40,7 @@ I'm an **Electrical Engineer** evolving into a **Systems & Cloud Engineer** 🌟
 ### 📊 Monitoring & Communication
 - **System Monitoring**
   - `GLPI` `Centreon` `Zabbix` `Wazuh`
-  - `Grafana` `Prometheus`
+  - `Grafana` `Prometheus` `Nagios`
 - **VoIP Solutions**
   - `3CX` `Asterisk(FreePBX)` `XiVO`
 
