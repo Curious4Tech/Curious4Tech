@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-I'm an **Electrical Engineer** evolving into a **Systems & Cloud Engineer** 🌟 with a passion for cloud technologies, infrastructure automation, and solving complex problems. My journey combines hands-on experience in cloud platforms (Azure, GCP), systems administration, and client-facing roles, supported by continuous learning and personal projects. I'm certified in Azure and GCP, dedicated to building scalable cloud solutions and contributing to the tech community.
+I'm an **Electrical Engineer** evolving into a **Systems & Cloud Engineer** 🌟 with a passion for cloud technologies, infrastructure automation, and solving complex problems. My journey combines hands-on experience in cloud platforms (Azure, GCP), systems administration, and client-facing roles, supported by continuous learning and personal projects. I'm certified  3X Azure and 1X GCP, dedicated to building scalable cloud solutions and contributing to the tech community.
 
 ## 🌐 Languages
 - 🇫🇷 French (Native)
@@ -16,7 +16,7 @@ I'm an **Electrical Engineer** evolving into a **Systems & Cloud Engineer** 🌟
 ### 🖥️ System Administration
 - **Windows Server** `2016` `2019` `2022` `2025`
 - **Linux** `CentOS` `RHEL` `Ubuntu` `Debian`
-- **Virtualization** `VMware` `HyperV` `VirtualBox` `Proxmox VE` `KVM`
+- **Virtualization** `VMware` `HyperV` `VirtualBox` `Proxmox VE` `KVM` 
 - **Containers** `Docker` `Jenkins`
 
 ### ☁️ Cloud & Infrastructure
@@ -25,6 +25,7 @@ I'm an **Electrical Engineer** evolving into a **Systems & Cloud Engineer** 🌟
   - Virtual Networks | AIM/RBAC | Load Balancers
   - NSGs | Microsoft Entra ID | App Service
   - Azure Function | Azure Migrate | Azure Arc
+  - Azure AI services | Azure Automation
 
 - **Infrastructure as Code**
   - `Terraform` `Ansible` `Bicep` `ARM`
@@ -34,7 +35,7 @@ I'm an **Electrical Engineer** evolving into a **Systems & Cloud Engineer** 🌟
   - `EIGRP` `OSPF` `RIP` `Inter-VLANs routing`
   - `VoIP` `ACL`
 - **Security Solutions**
-  - `pfSense` `OPNsense` `DynFi` `Apache Guacamole`
+  - `pfSense` `OPNsense` `DynFi` `Apache Guacamole` `VNP`
 
 ### 📊 Monitoring & Communication
 - **System Monitoring**
