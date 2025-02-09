@@ -21,11 +21,11 @@ I'm an **Electrical Engineer** evolving into a **Systems & Cloud Engineer** 🌟
 
 ### ☁️ Cloud & Infrastructure
 - **Microsoft Azure**
-  - Active Directory | Storage Account | Virtual Machines
-  - Virtual Networks | AIM/RBAC | Load Balancers
-  - NSGs | Microsoft Entra ID | App Service
-  - Azure Function | Azure Migrate | Azure Arc
-  - Azure AI services | Azure Automation
+  - `Active Directory` | `Storage Account` | `Virtual Machines`
+  - `Virtual Networks` | `AIM/RBAC` | `Load Balancers`
+  - `NSGs` | `Microsoft Entra ID` | `App Service`
+  - `Azure Function` | `Azure Migrate` | `Azure Arc`
+  - `Azure AI services` | `Azure Automation` | `App logic`
 
 - **Infrastructure as Code**
   - `Terraform` `Ansible` `Bicep` `ARM`
