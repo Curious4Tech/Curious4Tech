@@ -4,22 +4,27 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Electrical Engineer transitioning into **Systems and Cloud Engineering** with a strong passion for cloud technologies, infrastructure automation, and problem-solving. Hands-on experience in cloud platforms (Azure, GCP), systems administration, and client-facing roles, backed by continuous learning, freelancing, and personal projects. Certified in Azure and GCP, committed to building scalable cloud solutions and contributing to the tech community.
 
-# Technical Skills
+# LANGUAGES 
 
-Windows Server Administration : Windows Server 2016, 2019, 2022 and 2025
+**Spoken Languages** : French (Native) and English (Billingual)
 
-Virtualization: VMware, HyperV, Virtualbox, Proxmox VE and KVM
+# TECHNICAL SKILLS
 
-Linux Administration : Centos , RHEL, Ubuntu and Debian, Docker, Jekins.
+**Windows Server Administration** : Windows Server 2016, 2019, 2022 and 2025
 
-Cisco Switching and Routing : EIGRP, OSPF, RIP, Inter-VLANs routing, VoIP, ACL.
+**Virtualization** : VMware, HyperV, Virtualbox, Proxmox VE and KVM
 
-Microsoft Azure : Active Directory , Storage Account, Virtual Machines, Virtual Networks, AIM/RBAC, Load Balancers, NSGs, Microsoft Entra ID, App Service, Azure Function, Azure migrate and Azure Arc.
+**Linux Administration** : Centos , RHEL, Ubuntu and Debian, Docker, Jekins.
 
-Infrastructure as Code : Terraform, Ansible, Bicep, ARM
+**Cisco Switching and Routing** : EIGRP, OSPF, RIP, Inter-VLANs routing, VoIP, ACL.
+
+**Microsoft Azure** : Active Directory , Storage Account, Virtual Machines, Virtual Networks, AIM/RBAC, Load Balancers, NSGs, Microsoft Entra ID, App Service, Azure Function, Azure migrate and Azure Arc.
+
+**Infrastructure as Code** : Terraform, Ansible, Bicep, ARM
 
 Scripting : Python, Bash, PowerShell
-Spoken Languages : French(Native) and English (Billingual)
+
+
 
 System Monitoring : GLPI , Centreon, Zabbix, Wazuh, Grafana and Prometheus
 
