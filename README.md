@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Azizou GNANKPE
 ======================================================================================================================================
-Electrical Engineer transitioning into Systems and Cloud Engineering with a strong passion for cloud technologies, infrastructure automation, and problem-solving. Hands-on experience in cloud platforms (Azure, GCP), systems administration, and client-facing roles, backed by continuous learning, freelancing, and personal projects. Certified in Azure and GCP, committed to building scalable cloud solutions and contributing to the tech community.
+
+Electrical Engineer transitioning into **Systems and Cloud Engineering** with a strong passion for cloud technologies, infrastructure automation, and problem-solving. Hands-on experience in cloud platforms (Azure, GCP), systems administration, and client-facing roles, backed by continuous learning, freelancing, and personal projects. Certified in Azure and GCP, committed to building scalable cloud solutions and contributing to the tech community.
  -----------------------
  
 
