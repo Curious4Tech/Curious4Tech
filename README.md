@@ -93,19 +93,5 @@ I'm an **Electrical Engineer** evolving into a **Systems & Cloud Engineer** 🌟
 
 </div>
 
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Curious4Tech&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-                  
-                  
-[![GitHub Badge](https://img.shields.io/badge/-Curious4Tech-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Curious4Tech)
-
-                  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn%20Profile-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azizou-gnankpe/)
-
-                    
-[![Medium Badge](https://img.shields.io/badge/-Curious4Tech-12100E?style=flat-square&logo=medium&logoColor=white)](http://www.medium.com/Curious4Tech)
                   
                   
