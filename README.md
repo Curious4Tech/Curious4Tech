@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-I'm a **`Microsoft MVP in Cloud & Datacenter Management`** and an **`Electrical Engineer`** evolving into **`Systems & Cloud Engineering`** 🌟 with a strong passion for **`cloud technologies, infrastructure automation, Systems Engineering and problem-solving`**. My journey blends hands-on experience in cloud platforms (Azure, GCP), systems administration, and client-focused roles, backed by continuous learning and impactful personal projects. As a **`Microsoft MVP, 3X Azure Certified, and 1X GCP Certified`**, I'm committed to building scalable cloud solutions and actively contributing to the tech community.
+I'm a **`Microsoft MVP in Cloud & Datacenter Management`** and a **`Systems & Cloud Engineering`** 🌟 with a strong hands-on experience for **`cloud technologies, infrastructure automation, Systems Engineering and problem-solving`**. My journey blends hands-on experience in cloud platforms (Azure, GCP), systems administration, and client-focused roles, backed by continuous learning and impactful personal projects. As a **`Microsoft MVP, 3X Azure Certified, and 1X GCP Certified`**, I'm committed to building scalable cloud solutions and actively contributing to the tech community.
 ## 🌐 Languages
 - 🇫🇷 French (Native)
 - 🇬🇧 English (Bilingual)
