@@ -46,6 +46,8 @@ I'm a **`Microsoft MVP in Cloud & Datacenter Management`** and a **`Cloud & Syst
 ### 🛠️ Development
 - **Scripting**
   - `Python` `Bash` `PowerShell`
+  - `CI/CD peplines` `GitHub Actions` `Git`
+  - `Azure DevOps` `Container management`
 
 ## 🤝 Connect with Me
 
