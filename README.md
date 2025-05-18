@@ -19,15 +19,16 @@ I'm a **`Microsoft MVP in Cloud & Datacenter Management`** and a **`Cloud & Syst
 - **Containers** `Docker` `Jenkins`
 
 ### ☁️ Cloud & Infrastructure
-- **Microsoft Azure**
+- **Microsoft Azure and AWS**
   - `Active Directory` | `Storage Account` | `Virtual Machines`
   - `Virtual Networks` | `AIM/RBAC` | `Load Balancers`
   - `NSGs` | `Microsoft Entra ID` | `App Service`
   - `Azure Function` | `Azure Migrate` | `Azure Arc`
+  - `Lambda` | `IAM` | `S3` | `VPC` | `EC2` | `CloudWatch` 
   - `Azure AI services` | `Azure Automation` | `App logic`
 
 - **Infrastructure as Code**
-  - `Terraform` `Ansible` `Bicep` `ARM`
+  - `Terraform` `Ansible` `Bicep` `ARM`  `CloudFormation`
 
 ### 🔧 Networking & Security
 - **Cisco Technologies**
