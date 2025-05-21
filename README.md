@@ -59,21 +59,5 @@ I'm a **`Microsoft MVP in Cloud & Datacenter Management`** and a **`Cloud & Syst
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/Curious4Tech)
 
 </div>
-<head>
-  <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
-  />
-</head>
-<a href="https://www.linkedin.com/in/azizou-gnankpe/" target="_blank">
-  <i class="fab fa-linkedin fa-2x"></i>
-</a>
-
-<a href="https://medium.com/@curious4tech" target="_blank">
-  <i class="fab fa-medium fa-2x"></i>
-</a>
-
-<a href="https://github.com/Curious4Tech?tab=repositories" target="_blank">
-  <i class="fab fa-github fa-2x"></i>
-</a>         
+     
           
